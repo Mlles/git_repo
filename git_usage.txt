@@ -1,4 +1,4 @@
-git is an opensource version control system.
+git is an distribute opensource version control system.
 i want to add a new row.
 is this file changed?
 git is authoried by GPL.
